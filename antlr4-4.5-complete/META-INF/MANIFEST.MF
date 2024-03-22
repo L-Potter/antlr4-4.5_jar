@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Main-Class: org.antlr.v4.Tool
+Implementation-Title: ANTLR 4 Tool
+Implementation-Version: 4.5
+Implementation-Vendor: ANTLR
+Implementation-Vendor-Id: org.antlr
+Built-By: linchung
+Build-Jdk: 1.6
+Created-By: http://www.bildtool.org
+
